@@ -1,0 +1,5 @@
+- 👋 Hi, I’m abdou
+- 👀 I’m interested in programming in general
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on simple projects for learning
+- 📫 How to reach me a.chenafi@outlook.com
